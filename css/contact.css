@@ -128,7 +128,7 @@ iframe {
   border: 1px solid #3face4;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 550px) {
   .section-item {
     padding-top: 70px;
     padding-bottom: 60px;
